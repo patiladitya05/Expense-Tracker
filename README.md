@@ -45,4 +45,4 @@ Open `http://localhost:3000` in your browser.
 
 **Aditya Patil**
 
-GitHub: https://github.com/patiladitya05
+Repository: https://github.com/patiladitya05/Expense-Tracker
